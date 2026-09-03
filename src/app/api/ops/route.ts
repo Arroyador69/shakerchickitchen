@@ -3,6 +3,8 @@ import { nanoid } from "nanoid";
 import { getOps, patchOps } from "@/lib/ops";
 import type { JobStage, LeadStatus, QuoteStatus } from "@/lib/types";
 
+export const runtime = "nodejs";
+
 export async function GET() {
   return NextResponse.json(getOps());
 }

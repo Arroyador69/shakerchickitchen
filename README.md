@@ -2,61 +2,56 @@
 
 Web de venta y taller para [Shaker Chic](https://shakerchickitchen.com/): cocinas Shaker de inspiración inglesa y carpintería a medida, fabricadas en Sevilla.
 
-La web pública sustituye la plantilla WordPress. Incluye showroom 3D, catálogo completo (piezas que hoy están en [Wallapop](https://es.wallapop.com/user/shakerchick-475713327)) y un dashboard de producción.
+Showroom 3D, catálogo (piezas de [Wallapop](https://es.wallapop.com/user/shakerchick-475713327)) y dashboard de producción.
 
-## Stack
+- **Producción:** [https://shakerchickitchen.vercel.app](https://shakerchickitchen.vercel.app)
+- **GitHub:** [https://github.com/Arroyador69/shakerchickitchen](https://github.com/Arroyador69/shakerchickitchen)
 
-- Next.js 16 · React 19 · Tailwind 4
-- React Three Fiber (cocina Shaker interactiva)
-- Auth por cookie JWT (estudio + cliente)
-- Listo para Vercel
+## Crear el proyecto en Vercel
+
+El repo ya está preparado: Next.js 16, Node 20, región `fra1` (Frankfurt) y variables documentadas.
+
+### Opción A · Importar el repo (recomendado)
+
+1. Abre **[Importar shakerchickitchen en Vercel](https://vercel.com/new/import?s=https://github.com/Arroyador69/shakerchickitchen)**.
+2. Framework: **Next.js** (se detecta solo).
+3. Root Directory: `.`
+4. Añade estas Environment Variables en Production, Preview y Development:
+
+| Nombre | Ejemplo |
+| --- | --- |
+| `AUTH_SECRET` | cadena larga aleatoria (mín. 32 caracteres) |
+| `ADMIN_EMAIL` | `alberto@shakerchic.dev` |
+| `ADMIN_PASSWORD` | contraseña tuya |
+| `CLIENT_EMAIL` | `info@shakerchickitchen.com` |
+| `CLIENT_PASSWORD` | contraseña del cliente |
+
+5. Deploy.
+6. Project → **Domains** → añade `shakerchickitchen.com` y `www.shakerchickitchen.com`.
+
+### Opción B · CLI
+
+```bash
+npx vercel@latest
+npx vercel@latest env add AUTH_SECRET
+npx vercel@latest --prod
+```
 
 ## Arranque local
 
 ```bash
 npm install
 cp .env.example .env.local
+# rellena AUTH_SECRET y las contraseñas
 npm run dev
 ```
 
-Abre [http://localhost:3000](http://localhost:3000).
+Abre [http://localhost:3000](http://localhost:3000). Dashboard: `/login` → `/dashboard`.
 
-### Acceso dashboard
-
-| Rol | Email | Contraseña por defecto |
-| --- | --- | --- |
-| Estudio (tú) | `alberto@shakerchic.dev` | `ShakerAdmin2026` |
-| Cliente | `info@shakerchickitchen.com` | `ShakerChic2026` |
-
-Cámbialas en `.env.local` y en Vercel → Environment Variables.
+En local el taller se guarda en `data/ops.json`. En Vercel el catálogo es estático; el dashboard operativo usa memoria + `/tmp` hasta conectar una base de datos.
 
 ## Qué incluye
 
-**Web**
-- Home con cocina 3D (crema / oliva / azul profundo)
-- Tienda con las piezas de Wallapop + mesa artesanal del portfolio
-- Cocinas, jardín, hogar, proyectos, presupuesto y contacto
-- WhatsApp directo al +34 614 95 66 47
-- Formularios que entran como leads al dashboard
+**Web:** home 3D (crema / oliva / azul), tienda, cocinas, jardín, hogar, proyectos, presupuesto, contacto, WhatsApp.
 
-**Dashboard** (`/dashboard`)
-- Inventario y estados de stock
-- Kanban de producción (diseño → corte → ensamblaje → acabado → instalación)
-- Leads, presupuestos y tareas del día
-- Materiales del taller con aviso de mínimo
-
-Los datos operativos viven en memoria del servidor (perfecto para demo y primer deploy). Para persistencia real en producción se puede conectar Postgres/Neon sin tocar la UI.
-
-## Deploy en Vercel
-
-```bash
-npx vercel
-```
-
-O conecta el repo en [vercel.com/new](https://vercel.com/new). Variables necesarias: `AUTH_SECRET`, `ADMIN_EMAIL`, `ADMIN_PASSWORD`, `CLIENT_EMAIL`, `CLIENT_PASSWORD`.
-
-Cuando el dominio `shakerchickitchen.com` apunte a este proyecto, la web nueva sustituye la plantilla actual.
-
-## Fotos
-
-Las imágenes del catálogo son de referencia (Unsplash) hasta que se suban las fotos reales del taller / Wallapop. El modelo 3D y los textos sí son de la marca.
+**Dashboard:** inventario, kanban de producción, leads, presupuestos, tareas y materiales.

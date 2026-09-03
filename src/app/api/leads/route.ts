@@ -3,6 +3,8 @@ import { nanoid } from "nanoid";
 import { z } from "zod";
 import { patchOps } from "@/lib/ops";
 
+export const runtime = "nodejs";
+
 const schema = z.object({
   name: z.string().min(2),
   email: z.string().email(),

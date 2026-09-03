@@ -1,0 +1,5 @@
+# Local Vercel CLI metadata
+.vercel
+
+# Dashboard JSON generated locally
+/data/ops.json

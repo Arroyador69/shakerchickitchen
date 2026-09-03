@@ -1,4 +1,6 @@
 import { nanoid } from "nanoid";
+import fs from "node:fs";
+import path from "node:path";
 import { products } from "./products";
 import type { OpsState } from "./types";
 
@@ -8,6 +10,11 @@ function todayPlus(days: number) {
   const d = new Date();
   d.setDate(d.getDate() + days);
   return d.toISOString().slice(0, 10);
+}
+
+function filePath() {
+  if (process.env.VERCEL) return path.join("/tmp", "shaker-ops.json");
+  return path.join(process.cwd(), "data", "ops.json");
 }
 
 export function seedOps(): OpsState {
@@ -107,13 +114,32 @@ export function seedOps(): OpsState {
   };
 }
 
+function readDisk(): OpsState | null {
+  try {
+    const raw = fs.readFileSync(filePath(), "utf8");
+    return JSON.parse(raw) as OpsState;
+  } catch {
+    return null;
+  }
+}
+
+function writeDisk(state: OpsState) {
+  try {
+    fs.mkdirSync(path.dirname(filePath()), { recursive: true });
+    fs.writeFileSync(filePath(), JSON.stringify(state));
+  } catch {
+    // read-only filesystem on some serverless instances
+  }
+}
+
 export function getOps(): OpsState {
-  if (!g.__shakerOps) g.__shakerOps = seedOps();
+  if (!g.__shakerOps) g.__shakerOps = readDisk() ?? seedOps();
   return g.__shakerOps;
 }
 
 export function setOps(next: OpsState) {
   g.__shakerOps = next;
+  writeDisk(next);
   return next;
 }
 
