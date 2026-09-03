@@ -36,6 +36,8 @@ Abre [http://localhost:3000](http://localhost:3000). Dashboard: `/login` → `/d
 
 En local el taller se guarda en `data/ops.json`. En Vercel el catálogo es estático; el dashboard operativo usa memoria + `/tmp` hasta conectar una base de datos.
 
+El catálogo de venta vive en `data/catalog.json` y `data/catalog.db` (SQLite), con las fotos reales de Wallapop en `public/catalog/`. Cada ficha tiene visor 3D propio.
+
 ## Qué incluye
 
 **Web:** home 3D (crema / oliva / azul), tienda, cocinas, jardín, hogar, proyectos, presupuesto, contacto, WhatsApp.

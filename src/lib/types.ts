@@ -26,7 +26,11 @@ export type Product = {
   tags: string[];
   color: string;
   image: string;
-  mesh: "kitchen" | "bar" | "shelf" | "planter" | "pet" | "kids" | "door" | "sign" | "counter" | "table";
+  images: string[];
+  mesh: string;
+  wallapopId?: string | null;
+  wallapopSlug?: string | null;
+  wallapopUrl?: string | null;
 };
 
 export type Role = "admin" | "client";

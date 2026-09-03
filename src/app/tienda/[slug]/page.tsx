@@ -1,8 +1,8 @@
-import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { LeadForm } from "@/components/forms/LeadForm";
 import { ProductViewer } from "@/components/scene/ProductViewer";
+import { ProductGallery } from "@/components/shop/ProductGallery";
 import { categoryLabel, getProduct, products } from "@/lib/products";
 import { formatEUR, whatsappLink } from "@/lib/utils";
 import type { Metadata } from "next";
@@ -41,11 +41,9 @@ export default async function ProductPage({
         {categoryLabel[product.category]} · {product.sku}
       </p>
       <div className="mt-6 grid gap-10 lg:grid-cols-2">
-        <div className="space-y-4">
-          <div className="relative aspect-[4/3] overflow-hidden rounded-3xl">
-            <Image src={product.image} alt={product.name} fill className="object-cover" />
-          </div>
+        <div className="space-y-5">
           <ProductViewer product={product} />
+          <ProductGallery product={product} />
         </div>
         <div>
           <h1 className="font-serif text-4xl md:text-5xl">{product.name}</h1>
@@ -53,7 +51,7 @@ export default async function ProductPage({
             {product.madeToMeasure ? "Desde " : ""}
             {formatEUR(product.price)}
           </p>
-          <p className="mt-5 text-lg leading-relaxed text-muted">{product.description}</p>
+          <p className="mt-5 whitespace-pre-line text-lg leading-relaxed text-muted">{product.description}</p>
           <ul className="mt-6 space-y-2 text-sm">
             <li>Materiales: {product.materials.join(", ")}</li>
             <li>Plazo orientativo: {product.leadTimeDays} días</li>
@@ -74,11 +72,7 @@ export default async function ProductPage({
             </Link>
           </div>
           <div className="mt-10">
-            <LeadForm
-              source="tienda"
-              productId={product.id}
-              heading="¿La quieres a tu medida?"
-            />
+            <LeadForm source="tienda" productId={product.id} heading="¿La quieres a tu medida?" />
           </div>
         </div>
       </div>

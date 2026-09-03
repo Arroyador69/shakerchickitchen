@@ -1,0 +1,1491 @@
+[
+  {
+    "id": "p-mobiliario-bares",
+    "sku": "SC-HOS-001",
+    "slug": "mobiliario-y-equipamiento-para-bares",
+    "name": "Mobiliario y equipamiento para bares",
+    "price": 2333.0,
+    "category": "hosteleria",
+    "short": "Carpinteria a medida para negocios como bares, cafeterías, heladerias, celebraciones.",
+    "description": "Carpinteria a medida para negocios como bares, cafeterías, heladerias, celebraciones.\nConjunto de mobiliario y equipamiento para bares y cafeterías. Ideal para montar o renovar tu negocio.\n\n- Mostrador de madera y panelado en color menta.\n- Vitrinas refrigeradas de cristal.\n- Estanterías metálicas con baldas de madera.\n- Lámparas colgantes de mimbre.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 1,
+    "cost": 933,
+    "tags": [
+      "hosteleria",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#13C1AC",
+    "image": "/catalog/p-mobiliario-bares/00.jpg",
+    "images": [
+      "/catalog/p-mobiliario-bares/00.jpg",
+      "/catalog/p-mobiliario-bares/01.jpg",
+      "/catalog/p-mobiliario-bares/02.jpg"
+    ],
+    "mesh": "bar",
+    "wallapopId": "xzog9qpdkwj9",
+    "wallapopSlug": "mobiliario-y-equipamiento-para-bares-1295190157",
+    "wallapopUrl": "https://es.wallapop.com/item/mobiliario-y-equipamiento-para-bares-1295190157"
+  },
+  {
+    "id": "p-stand-hot-dog",
+    "sku": "SC-HOS-002",
+    "slug": "mueble-stand-isla-centro-comercial-hot-dog",
+    "name": "Mueble Stand Isla Centro comercial hot dog",
+    "price": 2400.0,
+    "category": "hosteleria",
+    "short": "Módulo de exhibición versátil, ideal para centros comerciales, perrito caliente, hot dog, cafeteria, heladería, vitrinas.",
+    "description": "Módulo de exhibición versátil, ideal para centros comerciales, perrito caliente, hot dog, cafeteria, heladería, vitrinas.\n\n- Diseño moderno con acabados en madera y blanco.\n- Encimera en color naranja vibrante.\n- Incorpora una vitrina refrigerada.\n- Espacio para menaje en la parte superior.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 1,
+    "cost": 960,
+    "tags": [
+      "hosteleria",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#13C1AC",
+    "image": "/catalog/p-stand-hot-dog/00.jpg",
+    "images": [
+      "/catalog/p-stand-hot-dog/00.jpg",
+      "/catalog/p-stand-hot-dog/01.jpg"
+    ],
+    "mesh": "island",
+    "wallapopId": "qjwr0837mq6o",
+    "wallapopSlug": "mueble-stand-isla-centro-comercial-hot-dog-1295189553",
+    "wallapopUrl": "https://es.wallapop.com/item/mueble-stand-isla-centro-comercial-hot-dog-1295189553"
+  },
+  {
+    "id": "p-barra-eventos",
+    "sku": "SC-HOS-003",
+    "slug": "barra-para-eventos-y-celebraciones",
+    "name": "Barra para eventos y celebraciones",
+    "price": 299.0,
+    "category": "hosteleria",
+    "short": "Barra versátil, ideal para eventos, celebraciones, bodas, chiringuitos, hosteleria, cafeterías o establecimientos hosteleros. Su diseño moderno y funcional la h",
+    "description": "Barra versátil, ideal para eventos, celebraciones, bodas, chiringuitos, hosteleria, cafeterías o establecimientos hosteleros. Su diseño moderno y funcional la hace destacar.\n\n- Estructura con acabado acanalado.\n- Encimera de madera clara.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 119,
+    "tags": [
+      "hosteleria",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#EDE4D4",
+    "image": "/catalog/p-barra-eventos/00.jpg",
+    "images": [
+      "/catalog/p-barra-eventos/00.jpg",
+      "/catalog/p-barra-eventos/01.jpg",
+      "/catalog/p-barra-eventos/02.jpg",
+      "/catalog/p-barra-eventos/03.jpg",
+      "/catalog/p-barra-eventos/04.jpg",
+      "/catalog/p-barra-eventos/05.jpg",
+      "/catalog/p-barra-eventos/06.jpg"
+    ],
+    "mesh": "eventbar",
+    "wallapopId": "3zlm3r3v28jx",
+    "wallapopSlug": "barra-para-eventos-y-celebraciones-1295183645",
+    "wallapopUrl": "https://es.wallapop.com/item/barra-para-eventos-y-celebraciones-1295183645"
+  },
+  {
+    "id": "p-barra-alta",
+    "sku": "SC-HOS-004",
+    "slug": "barra-alta-para-cafeteria-bar",
+    "name": "Barra alta para cafetería/bar",
+    "price": 344.0,
+    "category": "hosteleria",
+    "short": "Barra alta de madera con estructura metálica morada, ideal para hostelería.",
+    "description": "Barra alta de madera con estructura metálica morada, ideal para hostelería.\n\n- Diseño moderno y funcional.\n- Perfecta para cafeterías, bares o pastelerías.\n- Incluye 6 taburetes rosas a juego.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 137,
+    "tags": [
+      "hosteleria",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#2C3A56",
+    "image": "/catalog/p-barra-alta/00.jpg",
+    "images": [
+      "/catalog/p-barra-alta/00.jpg"
+    ],
+    "mesh": "highbar",
+    "wallapopId": "xzog9qpxw2j9",
+    "wallapopSlug": "barra-alta-para-cafeteria-bar-1295188733",
+    "wallapopUrl": "https://es.wallapop.com/item/barra-alta-para-cafeteria-bar-1295188733"
+  },
+  {
+    "id": "p-pasteleria",
+    "sku": "SC-HOS-005",
+    "slug": "muebles-pasteleria-galletas",
+    "name": "Muebles pastelería/galletas",
+    "price": 355.0,
+    "category": "hosteleria",
+    "short": "Muebles de exposición para pastelería, hostelería, cafeterías, panaderías, bares, restaurantes heladerías tiendas de cookies o galletas. Ideal para negocios.",
+    "description": "Muebles de exposición para pastelería, hostelería, cafeterías, panaderías, bares, restaurantes heladerías tiendas de cookies o galletas. Ideal para negocios.\n\nBarras de bar, estanterías, mobiliarío, expositor y todo tipo de mobiliario a medida para negocios\n\n- Vitrina de cristal.\n- Estructura de madera y color morado.\n- Diseño moderno.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 142,
+    "tags": [
+      "hosteleria",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#EDE4D4",
+    "image": "/catalog/p-pasteleria/00.jpg",
+    "images": [
+      "/catalog/p-pasteleria/00.jpg",
+      "/catalog/p-pasteleria/01.jpg"
+    ],
+    "mesh": "pastry",
+    "wallapopId": "wzvgp8og3dzl",
+    "wallapopSlug": "muebles-pasteleria-galletas-1295188117",
+    "wallapopUrl": "https://es.wallapop.com/item/muebles-pasteleria-galletas-1295188117"
+  },
+  {
+    "id": "p-barra-azul",
+    "sku": "SC-HOS-006",
+    "slug": "barra-de-bar-azul-marino-con-madera",
+    "name": "Barra de bar azul marino con madera",
+    "price": 299.0,
+    "category": "hosteleria",
+    "short": "Elegante barra de bar con un diseño moderno y funcional. Combina un acabado en azul marino con una superficie de madera clara.",
+    "description": "Elegante barra de bar con un diseño moderno y funcional. Combina un acabado en azul marino con una superficie de madera clara.\n\n- Estructura robusta en color azul marino.\n- Encimera de madera natural.\nBarra de bar de diseño elegante en acabado azul marino clásico con molduras decorativas y encimera de madera clara natural. Ideal para eventos, recepciones, espacios de hostelería o proyectos de interiorismo que buscan un toque distinguido y sofisticado. Fabricada con materiales de alta calidad, perfecta para crear un punto focal único en cualquier espacio.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": true,
+    "stock": 2,
+    "cost": 119,
+    "tags": [
+      "hosteleria",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#2C3A56",
+    "image": "/catalog/p-barra-azul/00.jpg",
+    "images": [
+      "/catalog/p-barra-azul/00.jpg"
+    ],
+    "mesh": "navybar",
+    "wallapopId": "mzn3dqnl2kjn",
+    "wallapopSlug": "barra-de-bar-azul-marino-con-madera-1295185673",
+    "wallapopUrl": "https://es.wallapop.com/item/barra-de-bar-azul-marino-con-madera-1295185673"
+  },
+  {
+    "id": "p-estanteria-arbol",
+    "sku": "SC-DEC-007",
+    "slug": "estanteria-de-madera-forma-arbol-artesanal",
+    "name": "Estantería de madera forma árbol artesanal",
+    "price": 150.0,
+    "category": "decoracion",
+    "short": "Estantería decorativa con un diseño original en forma de árbol. Sus diferentes niveles permiten organizar y exhibir objetos.",
+    "description": "Estantería decorativa con un diseño original en forma de árbol. Sus diferentes niveles permiten organizar y exhibir objetos.\n\n- Fabricada en madera.\n- Tonos naturales beige y marrón.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 60,
+    "tags": [
+      "decoracion",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#8A6A45",
+    "image": "/catalog/p-estanteria-arbol/00.jpg",
+    "images": [
+      "/catalog/p-estanteria-arbol/00.jpg",
+      "/catalog/p-estanteria-arbol/01.jpg"
+    ],
+    "mesh": "treeshelf",
+    "wallapopId": "3zlm37ppqpjx",
+    "wallapopSlug": "estanteria-de-madera-forma-arbol-artesanal-1294777669",
+    "wallapopUrl": "https://es.wallapop.com/item/estanteria-de-madera-forma-arbol-artesanal-1294777669"
+  },
+  {
+    "id": "p-trepar-gato",
+    "sku": "SC-MAS-008",
+    "slug": "mobiliario-trepar-gato-pared-madera",
+    "name": "Mobiliario trepar gato pared madera",
+    "price": 275.0,
+    "category": "mascotas",
+    "short": "Este mobiliario de pared está diseñado para que tu gato trepe y juegue.",
+    "description": "Este mobiliario de pared está diseñado para que tu gato trepe y juegue.\n\n- Estructura de madera.\n- Cojines de tela.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 110,
+    "tags": [
+      "mascotas",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#8A6A45",
+    "image": "/catalog/p-trepar-gato/00.jpg",
+    "images": [
+      "/catalog/p-trepar-gato/00.jpg",
+      "/catalog/p-trepar-gato/01.jpg",
+      "/catalog/p-trepar-gato/02.jpg",
+      "/catalog/p-trepar-gato/03.jpg"
+    ],
+    "mesh": "catwall",
+    "wallapopId": "36e50rmmwk6d",
+    "wallapopSlug": "mobiliario-trepar-gato-pared-madera-1294777215",
+    "wallapopUrl": "https://es.wallapop.com/item/mobiliario-trepar-gato-pared-madera-1294777215"
+  },
+  {
+    "id": "p-caseta-mascota",
+    "sku": "SC-MAS-009",
+    "slug": "caseta-para-perro-gato-mascota-moderna-de-diseno",
+    "name": "Caseta para perro gato mascota moderna de diseño",
+    "price": 300.0,
+    "category": "mascotas",
+    "short": "Elegante caseta para perros con un diseño moderno y original.",
+    "description": "Elegante caseta para perros con un diseño moderno y original.\n\n- Estructura de madera con múltiples aberturas circulares.\n- Puerta frontal abatible.\n- Incluye cojín interior.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 120,
+    "tags": [
+      "mascotas",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#EDE4D4",
+    "image": "/catalog/p-caseta-mascota/00.jpg",
+    "images": [
+      "/catalog/p-caseta-mascota/00.jpg",
+      "/catalog/p-caseta-mascota/01.jpg",
+      "/catalog/p-caseta-mascota/02.jpg",
+      "/catalog/p-caseta-mascota/03.jpg",
+      "/catalog/p-caseta-mascota/04.jpg",
+      "/catalog/p-caseta-mascota/05.jpg",
+      "/catalog/p-caseta-mascota/06.jpg",
+      "/catalog/p-caseta-mascota/07.jpg",
+      "/catalog/p-caseta-mascota/08.jpg",
+      "/catalog/p-caseta-mascota/09.jpg"
+    ],
+    "mesh": "pethouse",
+    "wallapopId": "wzvgp5d397zl",
+    "wallapopSlug": "caseta-para-perro-gato-mascota-moderna-de-diseno-1294776017",
+    "wallapopUrl": "https://es.wallapop.com/item/caseta-para-perro-gato-mascota-moderna-de-diseno-1294776017"
+  },
+  {
+    "id": "p-cuadro-mascota",
+    "sku": "SC-DEC-010",
+    "slug": "cuadro-pared-mascota-minimalista-gato-perro",
+    "name": "Cuadro pared mascota minimalista gato perro",
+    "price": 70.0,
+    "category": "decoracion",
+    "short": "Decoración de pared con silueta de mascota, estilo minimalista.",
+    "description": "Decoración de pared con silueta de mascota, estilo minimalista.\n\n- Diseño de perro y gato dándose la mano.\n- Acabado dorado.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 28,
+    "tags": [
+      "decoracion",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#1A1612",
+    "image": "/catalog/p-cuadro-mascota/00.jpg",
+    "images": [
+      "/catalog/p-cuadro-mascota/00.jpg",
+      "/catalog/p-cuadro-mascota/01.jpg",
+      "/catalog/p-cuadro-mascota/02.jpg"
+    ],
+    "mesh": "petart",
+    "wallapopId": "wzvgp5dq97zl",
+    "wallapopSlug": "cuadro-pared-mascota-minimalista-gato-perro-1294774865",
+    "wallapopUrl": "https://es.wallapop.com/item/cuadro-pared-mascota-minimalista-gato-perro-1294774865"
+  },
+  {
+    "id": "p-casa-aero",
+    "sku": "SC-MAS-011",
+    "slug": "casa-comedor-para-mascotas-aero-perro-gato",
+    "name": "Casa-Comedor para Mascotas Aero, perro gato",
+    "price": 400.0,
+    "category": "mascotas",
+    "short": "Refugio híbrido de madera premium para perros pequeños y gatos. Combina un acogedor dormitorio A-frame con un comedero elevado lateral.",
+    "description": "Refugio híbrido de madera premium para perros pequeños y gatos. Combina un acogedor dormitorio A-frame con un comedero elevado lateral.\n\n- Dormitorio con cojín mullido y dosel de tela lavable.\n- Comedero integrado con plataforma inclinada y dos cuencos de cerámica blanca.\n- Diseño funcional y estético.\n- Fomenta la higiene y el orden.\n- Medidas: 50x65x45 cm.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": true,
+    "stock": 2,
+    "cost": 160,
+    "tags": [
+      "mascotas",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#EDE4D4",
+    "image": "/catalog/p-casa-aero/00.jpg",
+    "images": [
+      "/catalog/p-casa-aero/00.jpg",
+      "/catalog/p-casa-aero/01.jpg",
+      "/catalog/p-casa-aero/02.jpg",
+      "/catalog/p-casa-aero/03.jpg",
+      "/catalog/p-casa-aero/04.jpg",
+      "/catalog/p-casa-aero/05.jpg",
+      "/catalog/p-casa-aero/06.jpg",
+      "/catalog/p-casa-aero/07.jpg",
+      "/catalog/p-casa-aero/08.jpg",
+      "/catalog/p-casa-aero/09.jpg"
+    ],
+    "mesh": "aero",
+    "wallapopId": "36e50rm80v6d",
+    "wallapopSlug": "casa-comedor-para-mascotas-aero-perro-gato-1294774139",
+    "wallapopUrl": "https://es.wallapop.com/item/casa-comedor-para-mascotas-aero-perro-gato-1294774139"
+  },
+  {
+    "id": "p-casa-gatos",
+    "sku": "SC-MAS-012",
+    "slug": "casa-para-gatos-de-madera-de-diseno-para-mascota",
+    "name": "Casa para gatos de madera de diseño para mascota",
+    "price": 400.0,
+    "category": "mascotas",
+    "short": "Elegante casa para gatos o perros con un diseño moderno y natural. Proporciona un espacio acogedor y seguro para tu mascota.",
+    "description": "Elegante casa para gatos o perros con un diseño moderno y natural. Proporciona un espacio acogedor y seguro para tu mascota.\n\nEsta fabricada en españa, la hacemos en nuestra carpinteria y puedes elegir el color.\n\n- Fabricada en madera.\n- Incluye cojín suave para mayor comodidad.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 160,
+    "tags": [
+      "mascotas",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#8A6A45",
+    "image": "/catalog/p-casa-gatos/00.jpg",
+    "images": [
+      "/catalog/p-casa-gatos/00.jpg",
+      "/catalog/p-casa-gatos/01.jpg",
+      "/catalog/p-casa-gatos/02.jpg",
+      "/catalog/p-casa-gatos/03.jpg"
+    ],
+    "mesh": "cathouse",
+    "wallapopId": "9jdwpr17l96k",
+    "wallapopSlug": "casa-para-gatos-de-madera-de-diseno-para-mascota-1294771312",
+    "wallapopUrl": "https://es.wallapop.com/item/casa-para-gatos-de-madera-de-diseno-para-mascota-1294771312"
+  },
+  {
+    "id": "p-carteles-logo",
+    "sku": "SC-COM-013",
+    "slug": "carteles-personalizables-con-tu-logo-letras-marca",
+    "name": "Carteles personalizables con tu logo letras marca",
+    "price": 200.0,
+    "category": "comercial",
+    "short": "Fabricamos carteles personalizados en madera, y pintados a mano, ideales para tiendas negocios como pastelerías, pastelerías, bares, restaurantes, dormitorios, ",
+    "description": "Fabricamos carteles personalizados en madera, y pintados a mano, ideales para tiendas negocios como pastelerías, pastelerías, bares, restaurantes, dormitorios, hogares y todo tipo de situaciones.\nEnvianos tu logo, letras, frase, idea, y fabricaremos el letrero de tus sueños para ti.\n\nHablanos  y haremos tu pedido a medida con nuestro corte en maquina CNC o pantógrafo.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 80,
+    "tags": [
+      "comercial",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#1A1612",
+    "image": "/catalog/p-carteles-logo/00.jpg",
+    "images": [
+      "/catalog/p-carteles-logo/00.jpg"
+    ],
+    "mesh": "lettersign",
+    "wallapopId": "8z88dleo4rz3",
+    "wallapopSlug": "carteles-personalizables-con-tu-logo-letras-marca-1294754794",
+    "wallapopUrl": "https://es.wallapop.com/item/carteles-personalizables-con-tu-logo-letras-marca-1294754794"
+  },
+  {
+    "id": "p-obelisco",
+    "sku": "SC-JAR-014",
+    "slug": "obelisco-de-jardin-de-madera-blanco-artesanal",
+    "name": "Obelisco de jardín de madera blanco artesanal",
+    "price": 400.0,
+    "category": "jardin",
+    "short": "Estructura decorativa para el jardín con un diseño clásico en forma de obelisco con pintura y laca de la mejor calidad para exterior.",
+    "description": "Estructura decorativa para el jardín con un diseño clásico en forma de obelisco con pintura y laca de la mejor calidad para exterior.\n\nPerfecto para tu jardín y colocar tus plantas enredaderas, macetas y dar un toque de categoría a tu hogar.\nSomos carpinteros y fabricamos para toda España ideas innovadoras y clásicas en nuestro taller en Sevilla.\n\n- Fabricado en madera.\n- Color personalizable a tu gusto.",
+    "materials": [
+      "Madera tratada",
+      "Laca exterior"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 160,
+    "tags": [
+      "jardin",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#F4EFE6",
+    "image": "/catalog/p-obelisco/00.jpg",
+    "images": [
+      "/catalog/p-obelisco/00.jpg",
+      "/catalog/p-obelisco/01.jpg",
+      "/catalog/p-obelisco/02.jpg",
+      "/catalog/p-obelisco/03.jpg",
+      "/catalog/p-obelisco/04.jpg"
+    ],
+    "mesh": "obelisk",
+    "wallapopId": "qjwr0n90v46o",
+    "wallapopSlug": "obelisco-de-jardin-de-madera-blanco-artesanal-1294752677",
+    "wallapopUrl": "https://es.wallapop.com/item/obelisco-de-jardin-de-madera-blanco-artesanal-1294752677"
+  },
+  {
+    "id": "p-estanteria-diseno",
+    "sku": "SC-DEC-015",
+    "slug": "estanteria-de-diseno-personalizable-madera-arte",
+    "name": "Estantería de diseño personalizable madera arte",
+    "price": 300.0,
+    "category": "decoracion",
+    "short": "Estantería de diseño con un llamativo color morado. Sus formas onduladas le dan un toque moderno y original.",
+    "description": "Estantería de diseño con un llamativo color morado. Sus formas onduladas le dan un toque moderno y original.\nLO PODEMOS HACER PERSONALIZADO A TU GUSTO CON TUS MEDIDAS E IDEAS INNOVADORAS.\n\nESCRIBENOS TU PROPUESTA.\n\n- Estructura de estantería.\n- Diseño ondulado.\n- Color morado.\n-Repisas y organizadores de calidad hechos a mano en España en carpintería sevillana.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 120,
+    "tags": [
+      "decoracion",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#6A7349",
+    "image": "/catalog/p-estanteria-diseno/00.jpg",
+    "images": [
+      "/catalog/p-estanteria-diseno/00.jpg",
+      "/catalog/p-estanteria-diseno/01.jpg"
+    ],
+    "mesh": "artshelf",
+    "wallapopId": "qzmmkwn8wxzv",
+    "wallapopSlug": "estanteria-de-diseno-personalizable-madera-arte-1294751008",
+    "wallapopUrl": "https://es.wallapop.com/item/estanteria-de-diseno-personalizable-madera-arte-1294751008"
+  },
+  {
+    "id": "p-repisa-plantas",
+    "sku": "SC-DEC-016",
+    "slug": "repisa-decorativa-madera-de-diseno-para-plantas",
+    "name": "Repisa Decorativa Madera de diseño para plantas",
+    "price": 60.0,
+    "category": "decoracion",
+    "short": "Set de tres repisas para plantas y macetas decorativas con un diseño moderno y orgánico, inspiradas en formas de hongo o gotas.",
+    "description": "Set de tres repisas para plantas y macetas decorativas con un diseño moderno y orgánico, inspiradas en formas de hongo o gotas.\n\nLo podemoa hacer a mwsis\n\n- Cada repisa tiene un color distinto: rosa, morado y blanco.\n- Fabricadas en madera resistente.\n- Ideales para añadir un toque de color y estilo a cualquier pared.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 24,
+    "tags": [
+      "decoracion",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#8A6A45",
+    "image": "/catalog/p-repisa-plantas/00.jpg",
+    "images": [
+      "/catalog/p-repisa-plantas/00.jpg",
+      "/catalog/p-repisa-plantas/01.jpg",
+      "/catalog/p-repisa-plantas/02.jpg"
+    ],
+    "mesh": "plantshelf",
+    "wallapopId": "nzxe7p9v9p62",
+    "wallapopSlug": "repisa-decorativa-madera-de-diseno-para-plantas-1294749206",
+    "wallapopUrl": "https://es.wallapop.com/item/repisa-decorativa-madera-de-diseno-para-plantas-1294749206"
+  },
+  {
+    "id": "p-organizadores",
+    "sku": "SC-HOG-017",
+    "slug": "organizadores-de-pared-y-mesa-de-diseno-a-medida",
+    "name": "Organizadores de pared y mesa de diseño a medida",
+    "price": 120.0,
+    "category": "hogar",
+    "short": "Conjunto de tres organizadores de pared personalizables a medida con un diseño moderno y divertido. Perfectos para mantener tus objetos a mano.",
+    "description": "Conjunto de tres organizadores de pared personalizables a medida con un diseño moderno y divertido. Perfectos para mantener tus objetos a mano.\n\nEnviamos tu idea y la hacemos realidad ya que somos fabricantes y lo podemos hacer personalizados a medida.\n\n- Piezas de plástico resistentes.\n- Colores vibrantes: verde, naranja y morado.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 48,
+    "tags": [
+      "hogar",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#EDE4D4",
+    "image": "/catalog/p-organizadores/00.jpg",
+    "images": [
+      "/catalog/p-organizadores/00.jpg",
+      "/catalog/p-organizadores/01.jpg"
+    ],
+    "mesh": "organizer",
+    "wallapopId": "wzyrw09y4e65",
+    "wallapopSlug": "organizadores-de-pared-y-mesa-de-diseno-a-medida-1294746168",
+    "wallapopUrl": "https://es.wallapop.com/item/organizadores-de-pared-y-mesa-de-diseno-a-medida-1294746168"
+  },
+  {
+    "id": "p-zapatero-metal",
+    "sku": "SC-HOG-018",
+    "slug": "zapatero-diseno-metal-blanco-negro",
+    "name": "Zapatero Diseño Metal Blanco Negro",
+    "price": 300.0,
+    "category": "hogar",
+    "short": "Zapatero de diseño moderno con estructura metálica.",
+    "description": "Zapatero de diseño moderno con estructura metálica.\n\nHecha a mano en España\n\n- Acabado en blanco y negro.\n- Ideal para organizar calzado.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 120,
+    "tags": [
+      "hogar",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#1A1612",
+    "image": "/catalog/p-zapatero-metal/00.jpg",
+    "images": [
+      "/catalog/p-zapatero-metal/00.jpg"
+    ],
+    "mesh": "shoerack",
+    "wallapopId": "p618wldyg7z5",
+    "wallapopSlug": "zapatero-diseno-metal-blanco-negro-1294744779",
+    "wallapopUrl": "https://es.wallapop.com/item/zapatero-diseno-metal-blanco-negro-1294744779"
+  },
+  {
+    "id": "p-estanterias-arte",
+    "sku": "SC-DEC-019",
+    "slug": "estanterias-decorativas-de-arte-de-diseno",
+    "name": "Estanterías Decorativas de arte de diseño",
+    "price": 350.0,
+    "category": "decoracion",
+    "short": "Estantería de diseño con forma de flor, ideal para añadir un toque artístico a tu hogar. Sus curvas orgánicas y color blanco la hacen destacar.",
+    "description": "Estantería de diseño con forma de flor, ideal para añadir un toque artístico a tu hogar. Sus curvas orgánicas y color blanco la hacen destacar.\n\nDiseñadas por artistas y diseñadores y fabricadas a mano por carpinteros en España.\n\nSi tienes alguna idea creativa envianos tu idea y estaremos encantados de hacerla realidad.\n\n- Diseño floral único.\n- Acabado blanco mate.\n- Múltiples niveles para exhibir objetos.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 140,
+    "tags": [
+      "decoracion",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#8A6A45",
+    "image": "/catalog/p-estanterias-arte/00.jpg",
+    "images": [
+      "/catalog/p-estanterias-arte/00.jpg",
+      "/catalog/p-estanterias-arte/01.jpg"
+    ],
+    "mesh": "galleryshelf",
+    "wallapopId": "nz08kl27er6o",
+    "wallapopSlug": "estanterias-decorativas-de-arte-de-diseno-1294741903",
+    "wallapopUrl": "https://es.wallapop.com/item/estanterias-decorativas-de-arte-de-diseno-1294741903"
+  },
+  {
+    "id": "p-mesa-infantil",
+    "sku": "SC-INF-020",
+    "slug": "mesa-y-sillas-infantiles-madera-animales-para-nino",
+    "name": "Mesa y Sillas Infantiles Madera Animales para niño",
+    "price": 500.0,
+    "category": "infantil",
+    "short": "Conjunto de mesa y sillas infantiles con divertidos diseños de animales para niños y guarderías",
+    "description": "Conjunto de mesa y sillas infantiles con divertidos diseños de animales para niños y guarderías\nHecho a mano en España.\n\n- Fabricado en madera.\n- Diseño de animales.\n- Ideal para niños.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 200,
+    "tags": [
+      "infantil",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#EDE4D4",
+    "image": "/catalog/p-mesa-infantil/00.jpg",
+    "images": [
+      "/catalog/p-mesa-infantil/00.jpg"
+    ],
+    "mesh": "kidstable",
+    "wallapopId": "mzn3dxedxgjn",
+    "wallapopSlug": "mesa-y-sillas-infantiles-madera-animales-para-nino-1294738897",
+    "wallapopUrl": "https://es.wallapop.com/item/mesa-y-sillas-infantiles-madera-animales-para-nino-1294738897"
+  },
+  {
+    "id": "p-mueble-tiburon",
+    "sku": "SC-INF-021",
+    "slug": "mueble-infantil-tiburon-madera-artesano",
+    "name": "Mueble Infantil Tiburón Madera Artesano",
+    "price": 350.0,
+    "category": "infantil",
+    "short": "Original mueble infantil con diseño de tiburón, fabricado en madera por un artesano.",
+    "description": "Original mueble infantil con diseño de tiburón, fabricado en madera por un artesano.\n\n- Diseño divertido y único.\n- Acabado en color azul claro.\n- Interior en rojo y morado.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": true,
+    "stock": 2,
+    "cost": 140,
+    "tags": [
+      "infantil",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#2C3A56",
+    "image": "/catalog/p-mueble-tiburon/00.jpg",
+    "images": [
+      "/catalog/p-mueble-tiburon/00.jpg",
+      "/catalog/p-mueble-tiburon/01.jpg",
+      "/catalog/p-mueble-tiburon/02.jpg",
+      "/catalog/p-mueble-tiburon/03.jpg",
+      "/catalog/p-mueble-tiburon/04.jpg",
+      "/catalog/p-mueble-tiburon/05.jpg"
+    ],
+    "mesh": "shark",
+    "wallapopId": "qzmmkw47xxzv",
+    "wallapopSlug": "mueble-infantil-tiburon-madera-artesano-1294622032",
+    "wallapopUrl": "https://es.wallapop.com/item/mueble-infantil-tiburon-madera-artesano-1294622032"
+  },
+  {
+    "id": "p-escritorio-plegable",
+    "sku": "SC-HOG-022",
+    "slug": "escritorio-organizador-plegable-de-pared-madera",
+    "name": "Escritorio organizador Plegable de Pared madera",
+    "price": 320.0,
+    "category": "hogar",
+    "short": "Estos escritorios se pliegan fácilmente contra la pared, ahorrando espacio. Su diseño moderno se adapta a cualquier hogar u oficina.",
+    "description": "Estos escritorios se pliegan fácilmente contra la pared, ahorrando espacio. Su diseño moderno se adapta a cualquier hogar u oficina.\n\nHECHOS A MANO EN ESPAÑA EN CARPINTERÍA DE SEVILLA.\n\n- Estructura de madera y metal.\n- Acabado en blanco y detalles en madera.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 128,
+    "tags": [
+      "hogar",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#EDE4D4",
+    "image": "/catalog/p-escritorio-plegable/00.jpg",
+    "images": [
+      "/catalog/p-escritorio-plegable/00.jpg",
+      "/catalog/p-escritorio-plegable/01.jpg",
+      "/catalog/p-escritorio-plegable/02.jpg",
+      "/catalog/p-escritorio-plegable/03.jpg"
+    ],
+    "mesh": "folddesk",
+    "wallapopId": "36e50rorwv6d",
+    "wallapopSlug": "escritorio-organizador-plegable-de-pared-madera-1294736315",
+    "wallapopUrl": "https://es.wallapop.com/item/escritorio-organizador-plegable-de-pared-madera-1294736315"
+  },
+  {
+    "id": "p-goku",
+    "sku": "SC-INF-023",
+    "slug": "estanteria-repisa-goku-circular-personalizada",
+    "name": "Estantería repisa Goku Circular personalizada",
+    "price": 200.0,
+    "category": "infantil",
+    "short": "Original estantería circular con diseño de Goku dragon ball, madera hecha a mano.",
+    "description": "Original estantería circular con diseño de Goku dragon ball, madera hecha a mano.\n\n- Base de madera con silueta de Goku.\n- Múltiples repisas para exhibir figuras.\n- Tonos naranjas y negros.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 80,
+    "tags": [
+      "infantil",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#C4A574",
+    "image": "/catalog/p-goku/00.jpg",
+    "images": [
+      "/catalog/p-goku/00.jpg"
+    ],
+    "mesh": "goku",
+    "wallapopId": "xzog91do3wj9",
+    "wallapopSlug": "estanteria-repisa-goku-circular-personalizada-1294735309",
+    "wallapopUrl": "https://es.wallapop.com/item/estanteria-repisa-goku-circular-personalizada-1294735309"
+  },
+  {
+    "id": "p-heladeria",
+    "sku": "SC-HOS-024",
+    "slug": "estanteria-heladeria-personalizada",
+    "name": "Estantería Heladería Personalizada",
+    "price": 200.0,
+    "category": "hosteleria",
+    "short": "Estantería decorativa con diseño de helado, ideal para heladerías o tiendas, con tu logo, marca, cartel, letras personalizadas.",
+    "description": "Estantería decorativa con diseño de helado, ideal para heladerías o tiendas, con tu logo, marca, cartel, letras personalizadas.\n\nPodemos personalizarlo a tu forma y hacer realidad tu idea para colocarla en tu local, panadería, negocio, pastelería, heladería, bar, restaurante etc...\n\n- Estructura de madera blanca.\n- Niveles con colores pastel: rosa, azul y morado.\n- Borde de madera clara.\n- Incluye dos tarjetas de presentación de 'Heladería El Tajo Artesanal'.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 80,
+    "tags": [
+      "hosteleria",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#EDE4D4",
+    "image": "/catalog/p-heladeria/00.jpg",
+    "images": [
+      "/catalog/p-heladeria/00.jpg",
+      "/catalog/p-heladeria/01.jpg"
+    ],
+    "mesh": "icecream",
+    "wallapopId": "36e50roo386d",
+    "wallapopSlug": "estanteria-heladeria-personalizada-1294734487",
+    "wallapopUrl": "https://es.wallapop.com/item/estanteria-heladeria-personalizada-1294734487"
+  },
+  {
+    "id": "p-cocina-britanica",
+    "sku": "SC-COC-025",
+    "slug": "cocina-estilo-britanico-ingles-artesanal-a-medida",
+    "name": "Cocina estilo británico inglés artesanal a medida",
+    "price": 1200.0,
+    "category": "cocinas",
+    "short": "Conjunto de muebles de cocina hechos a medida con un diseño artesanal de estilo inglés tipo shaker.",
+    "description": "Conjunto de muebles de cocina hechos a medida con un diseño artesanal de estilo inglés tipo shaker.\n\nContáctanos, cuentanos tu idea, tomamos medidas en tu hogar, te asesoramos con nuestro equipo de diseñadores con mas de 20 años de experiencias en este sector y posteriormente te haremos un prespuesto ajustados sin ningún tipo de compromiso.\n\n- Acabado en tonos beige y marrón.\n- Encimera de mármol.\n- Tiradores y grifería metálicos.\n- Base de las puertas de madera.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 21,
+    "madeToMeasure": true,
+    "featured": true,
+    "stock": 1,
+    "cost": 480,
+    "tags": [
+      "cocinas",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#EDE4D4",
+    "image": "/catalog/p-cocina-britanica/00.jpg",
+    "images": [
+      "/catalog/p-cocina-britanica/00.jpg",
+      "/catalog/p-cocina-britanica/01.jpg",
+      "/catalog/p-cocina-britanica/02.jpg",
+      "/catalog/p-cocina-britanica/03.jpg",
+      "/catalog/p-cocina-britanica/04.jpg",
+      "/catalog/p-cocina-britanica/05.jpg",
+      "/catalog/p-cocina-britanica/06.jpg",
+      "/catalog/p-cocina-britanica/07.jpg",
+      "/catalog/p-cocina-britanica/08.jpg",
+      "/catalog/p-cocina-britanica/09.jpg"
+    ],
+    "mesh": "kitchen",
+    "wallapopId": "8j381l2p51z9",
+    "wallapopSlug": "cocina-estilo-britanico-ingles-artesanal-a-medida-1294732434",
+    "wallapopUrl": "https://es.wallapop.com/item/cocina-estilo-britanico-ingles-artesanal-a-medida-1294732434"
+  },
+  {
+    "id": "p-mudroom",
+    "sku": "SC-HOG-004",
+    "slug": "mueble-de-entrada-zapatero-blanco-y-madera-mudroom",
+    "name": "Mueble de entrada/zapatero blanco y madera mudroom",
+    "price": 1300.0,
+    "category": "hogar",
+    "short": "Mueble funcional para la entrada o boot room. Combina un diseño práctico con un acabado elegante.",
+    "description": "Mueble funcional para la entrada o boot room. Combina un diseño práctico con un acabado elegante.\n\n- Amplio espacio de almacenamiento.\n- Compartimentos para zapatos en la base.\n- Colgadores para abrigos en la parte superior.\n- Estante superior para objetos decorativos o de uso diario.\n- Puerta lateral para mayor privacidad.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": true,
+    "stock": 1,
+    "cost": 520,
+    "tags": [
+      "hogar",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#EDE4D4",
+    "image": "/catalog/p-mudroom/00.jpg",
+    "images": [
+      "/catalog/p-mudroom/00.jpg",
+      "/catalog/p-mudroom/01.jpg",
+      "/catalog/p-mudroom/02.jpg",
+      "/catalog/p-mudroom/03.jpg",
+      "/catalog/p-mudroom/04.jpg"
+    ],
+    "mesh": "mudroom",
+    "wallapopId": "x6qqeony1n6y",
+    "wallapopSlug": "mueble-de-entrada-zapatero-blanco-y-madera-mudroom-1294729666",
+    "wallapopUrl": "https://es.wallapop.com/item/mueble-de-entrada-zapatero-blanco-y-madera-mudroom-1294729666"
+  },
+  {
+    "id": "p-puerta",
+    "sku": "SC-HOG-027",
+    "slug": "puerta-de-madera-artesanal-a-medida-clasicas",
+    "name": "Puerta de madera artesanal a medida Clásicas",
+    "price": 400.0,
+    "category": "hogar",
+    "short": "Puerta de madera clásica, hecha a mano y a medida. Su diseño panelado le da un toque elegante y atemporal.",
+    "description": "Puerta de madera clásica, hecha a mano y a medida. Su diseño panelado le da un toque elegante y atemporal.\nPuertas de madera maciza hechas a mano. Modelos abatibles clásicos y correderas estilo granero. Acabados lacados en tonos tendencia y fabricación a medida.\nDiseño Exclusivo y Artesanía para Transformar tus Espacios\nEleva el estilo de tu hogar con nuestra colección de puertas de madera maciza hechas a mano. Combinamos ebanistería tradicional con diseños atemporales —desde el refinamiento de molduras clásicas neocláusicas hasta el carácter cálido de las puertas correderas tipo granero (barn doors)—.\n\nFabricadas individualmente.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 160,
+    "tags": [
+      "hogar",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#8A6A45",
+    "image": "/catalog/p-puerta/00.jpg",
+    "images": [
+      "/catalog/p-puerta/00.jpg",
+      "/catalog/p-puerta/01.jpg",
+      "/catalog/p-puerta/02.jpg",
+      "/catalog/p-puerta/03.jpg",
+      "/catalog/p-puerta/04.jpg",
+      "/catalog/p-puerta/05.jpg"
+    ],
+    "mesh": "door",
+    "wallapopId": "pzpk4mwnpkj3",
+    "wallapopSlug": "puerta-de-madera-artesanal-a-medida-clasicas-1294726950",
+    "wallapopUrl": "https://es.wallapop.com/item/puerta-de-madera-artesanal-a-medida-clasicas-1294726950"
+  },
+  {
+    "id": "p-macetero-versalles",
+    "sku": "SC-JAR-028",
+    "slug": "macetero-de-madera-estilo-versalles-artesanal",
+    "name": "Macetero de Madera Estilo Versalles Artesanal",
+    "price": 975.0,
+    "category": "jardin",
+    "short": "Elegancia Clásica y Artesanía Tradicional para tu Jardín",
+    "description": "Elegancia Clásica y Artesanía Tradicional para tu Jardín\nDale a tu terraza, patio o jardín un toque señorial y atemporal con nuestro macetero de madera estilo Versalles. Inspirado en los diseños clásicos de la orangerie francesa, este macetero combina la belleza tradicional con la máxima resistencia que exige el mobiliario de exterior.\n\nCada pieza está fabricada a mano de forma artesanal, cuidando cada detalle de ensamblaje para garantizar una estructura robusta, estable y duradera.\n\nCaracterísticas Principales:\nDiseño Estilo Versalles: Paneles verticales con remates geométricos en las esquinas que aportan sobriedad y distinción.\n",
+    "materials": [
+      "Madera tratada",
+      "Laca exterior"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": true,
+    "stock": 1,
+    "cost": 390,
+    "tags": [
+      "jardin",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#F4EFE6",
+    "image": "/catalog/p-macetero-versalles/00.jpg",
+    "images": [
+      "/catalog/p-macetero-versalles/00.jpg",
+      "/catalog/p-macetero-versalles/01.jpg",
+      "/catalog/p-macetero-versalles/02.jpg",
+      "/catalog/p-macetero-versalles/03.jpg",
+      "/catalog/p-macetero-versalles/04.jpg"
+    ],
+    "mesh": "versailles",
+    "wallapopId": "pzpk4mw7v4j3",
+    "wallapopSlug": "macetero-de-madera-estilo-versalles-artesanal-1294721274",
+    "wallapopUrl": "https://es.wallapop.com/item/macetero-de-madera-estilo-versalles-artesanal-1294721274"
+  },
+  {
+    "id": "p-letra-bebe",
+    "sku": "SC-INF-029",
+    "slug": "letra-madera-personalizada-nombre-bebe-ninos-ninas",
+    "name": "Letra Madera Personalizada Nombre Bebé niños niñas",
+    "price": 50.0,
+    "category": "infantil",
+    "short": "Letra decorativa de madera con el nombre 'Noah' superpuesto. Ideal para personalizar habitaciones infantiles o como regalo.",
+    "description": "Letra decorativa de madera con el nombre 'Noah' superpuesto. Ideal para personalizar habitaciones infantiles o como regalo.\n\n- Letra 'N' grande de madera.\n- Nombre 'Noah' en letras cursivas oscuras.\n- Acabado en color beige y negro.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 20,
+    "tags": [
+      "infantil",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#EDE4D4",
+    "image": "/catalog/p-letra-bebe/00.jpg",
+    "images": [
+      "/catalog/p-letra-bebe/00.jpg",
+      "/catalog/p-letra-bebe/01.jpg"
+    ],
+    "mesh": "letter",
+    "wallapopId": "mzn3dx085yjn",
+    "wallapopSlug": "letra-madera-personalizada-nombre-bebe-ninos-ninas-1294717173",
+    "wallapopUrl": "https://es.wallapop.com/item/letra-madera-personalizada-nombre-bebe-ninos-ninas-1294717173"
+  },
+  {
+    "id": "p-cartel-madera",
+    "sku": "SC-COM-030",
+    "slug": "cartel-personalizado-madera-logo-marca",
+    "name": "Cartel personalizado madera logo marca",
+    "price": 199.0,
+    "category": "comercial",
+    "short": "Cartel de madera con diseño personalizado para negocios o marcas. Ideal para destacar tu identidad.",
+    "description": "Cartel de madera con diseño personalizado para negocios o marcas. Ideal para destacar tu identidad.\n\n- Material: Madera.\n- Acabado: Diseño en relieve blanco sobre base verde.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 79,
+    "tags": [
+      "comercial",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#1A1612",
+    "image": "/catalog/p-cartel-madera/00.jpg",
+    "images": [
+      "/catalog/p-cartel-madera/00.jpg",
+      "/catalog/p-cartel-madera/01.jpg"
+    ],
+    "mesh": "woodsign",
+    "wallapopId": "8z88dl2qddz3",
+    "wallapopSlug": "cartel-personalizado-madera-logo-marca-1294715394",
+    "wallapopUrl": "https://es.wallapop.com/item/cartel-personalizado-madera-logo-marca-1294715394"
+  },
+  {
+    "id": "p-alarmas",
+    "sku": "SC-COM-031",
+    "slug": "alarmas-hogares-y-negocios",
+    "name": "Alarmas Hogares y Negocios",
+    "price": null,
+    "category": "comercial",
+    "short": "Servicio de seguridad integral para proteger tu hogar o negocio.",
+    "description": "Servicio de seguridad integral para proteger tu hogar o negocio.\n\n- Sistemas de alarmas avanzados.\n- Protección para hogares y negocios.\n- Soluciones integrales de seguridad.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 0,
+    "tags": [
+      "comercial",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#1A1612",
+    "image": "/catalog/p-alarmas/00.jpg",
+    "images": [
+      "/catalog/p-alarmas/00.jpg"
+    ],
+    "mesh": "alarm",
+    "wallapopId": "ejkmo0egrqzx",
+    "wallapopSlug": "alarmas-hogares-y-negocios-1294713495",
+    "wallapopUrl": "https://es.wallapop.com/item/alarmas-hogares-y-negocios-1294713495"
+  },
+  {
+    "id": "p-expositor-desmontable",
+    "sku": "SC-COM-032",
+    "slug": "expositor-madera-desmontable-ferias-tiendas",
+    "name": "Expositor Madera Desmontable Ferias Tiendas",
+    "price": 399.0,
+    "category": "comercial",
+    "short": "Mueble expositor modular y desmontable de madera, hecho a mano en España. Diseñado especialmente para tiendas, comercios, escaparatismo, mercadillos y puestos d",
+    "description": "Mueble expositor modular y desmontable de madera, hecho a mano en España. Diseñado especialmente para tiendas, comercios, escaparatismo, mercadillos y puestos de feria artesanal. Es ligero, muy estable y se monta/desmonta sin necesidad de herramientas por sistema de encastre.\n\nCaracterísticas principales:\n\nDiseño modular y funcional: Cuenta con múltiples baldas/estantes repartidos en varios niveles y barra superior para colgar productos (perchas, complementos, cartelería).\n\nFácil transporte y montaje: Se desmonta completamente quedando plano para poder transportarlo cómodamente en el maletero de cualquier coche.\n\nEspacio para logo.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 159,
+    "tags": [
+      "comercial",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#8A6A45",
+    "image": "/catalog/p-expositor-desmontable/00.jpg",
+    "images": [
+      "/catalog/p-expositor-desmontable/00.jpg",
+      "/catalog/p-expositor-desmontable/01.jpg"
+    ],
+    "mesh": "fairstand",
+    "wallapopId": "qjwr0n73g46o",
+    "wallapopSlug": "expositor-madera-desmontable-ferias-tiendas-1294711805",
+    "wallapopUrl": "https://es.wallapop.com/item/expositor-madera-desmontable-ferias-tiendas-1294711805"
+  },
+  {
+    "id": "p-expositores-tiendas",
+    "sku": "SC-COM-033",
+    "slug": "expositores-madera-para-ferias-y-tiendas",
+    "name": "Expositores madera para ferias y tiendas",
+    "price": 400.0,
+    "category": "comercial",
+    "short": "Conjunto de expositores de madera, ideales para ferias, tiendas o para exhibir plantas. Su diseño modular permite adaptarlos a diferentes espacios.",
+    "description": "Conjunto de expositores de madera, ideales para ferias, tiendas o para exhibir plantas. Su diseño modular permite adaptarlos a diferentes espacios.\n\n- Fabricados en madera.\n- Color natural de la madera.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 160,
+    "tags": [
+      "comercial",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#EDE4D4",
+    "image": "/catalog/p-expositores-tiendas/00.jpg",
+    "images": [
+      "/catalog/p-expositores-tiendas/00.jpg",
+      "/catalog/p-expositores-tiendas/01.jpg",
+      "/catalog/p-expositores-tiendas/02.jpg",
+      "/catalog/p-expositores-tiendas/03.jpg",
+      "/catalog/p-expositores-tiendas/04.jpg",
+      "/catalog/p-expositores-tiendas/05.jpg"
+    ],
+    "mesh": "retailstand",
+    "wallapopId": "qzmmkwow01zv",
+    "wallapopSlug": "expositores-madera-para-ferias-y-tiendas-1294708932",
+    "wallapopUrl": "https://es.wallapop.com/item/expositores-madera-para-ferias-y-tiendas-1294708932"
+  },
+  {
+    "id": "p-perchero-ingles",
+    "sku": "SC-HOG-034",
+    "slug": "mueble-perchero-artesanal-madera-y-metal-ingles",
+    "name": "Mueble Perchero Artesanal Madera y Metal ingles",
+    "price": 1300.0,
+    "category": "hogar",
+    "short": "Mueble recibidor / descalzador de entrada estilo ingles o britanico hecho a mano en España, perfecto para combinar con estilo shaker kitchen o cocinas tipo ingl",
+    "description": "Mueble recibidor / descalzador de entrada estilo ingles o britanico hecho a mano en España, perfecto para combinar con estilo shaker kitchen o cocinas tipo inglés o francés de diseñador.\n\nIdeal para mantener tu hogar organizado con un estilo rústico y moderno a la vez. Perfecto para recibidores, pasillos o zonas de entrada (mudroom).\n\nCaracterísticas principales:\n\nBanco descalzador: Asiento robusto en madera maciza co (ideal para sentarse cómodamente a calzarse/descalzarse).\n\nZona de perchero: 7 colgadores metálicos dobles y resistentes para abrigos, bolsos, chaquetas y sombreros.\n\nMobiliario de entradita boot room o mudroom.\n\n",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": true,
+    "stock": 1,
+    "cost": 520,
+    "tags": [
+      "hogar",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#8A6A45",
+    "image": "/catalog/p-perchero-ingles/00.jpg",
+    "images": [
+      "/catalog/p-perchero-ingles/00.jpg",
+      "/catalog/p-perchero-ingles/01.jpg",
+      "/catalog/p-perchero-ingles/02.jpg",
+      "/catalog/p-perchero-ingles/03.jpg",
+      "/catalog/p-perchero-ingles/04.jpg",
+      "/catalog/p-perchero-ingles/05.jpg"
+    ],
+    "mesh": "hallstand",
+    "wallapopId": "8z88dlwr3rz3",
+    "wallapopSlug": "mueble-perchero-artesanal-madera-y-metal-ingles-1294706722",
+    "wallapopUrl": "https://es.wallapop.com/item/mueble-perchero-artesanal-madera-y-metal-ingles-1294706722"
+  },
+  {
+    "id": "p-banco-recibidor",
+    "sku": "SC-HOG-035",
+    "slug": "banco-recibidor-artesanal-madera",
+    "name": "Banco recibidor artesanal madera",
+    "price": 1000.0,
+    "category": "hogar",
+    "short": "Mueble artesanal de madera para recibidor, con banco y ganchos.",
+    "description": "Mueble artesanal de madera para recibidor, con banco y ganchos.\n\n- Diseño con paneles verticales.\n- Asiento de madera natural.\n- Dos compartimentos inferiores con puertas.\n\nMueble recibidor perchero hecho a mano en España, diseñado con un elegante estilo rústico-contemporáneo para transformar el recibidor o la entrada de tu hogar en un espacio organizado y acogedor.\n\nCaracterísticas principales:\n\nBanco descalzador con almacenaje: Asiento de madera maciza en tono cálido natural sobre un baúl inferior cerrado con puertas paneladas, ideal para guardar calzado u objetos y mantener todo recogido.\n\nZona de perchero: Tira de madera maciza.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 1,
+    "cost": 400,
+    "tags": [
+      "hogar",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#8A6A45",
+    "image": "/catalog/p-banco-recibidor/00.jpg",
+    "images": [
+      "/catalog/p-banco-recibidor/00.jpg",
+      "/catalog/p-banco-recibidor/01.jpg"
+    ],
+    "mesh": "bench",
+    "wallapopId": "9jdwprnw896k",
+    "wallapopSlug": "banco-recibidor-artesanal-madera-1294704184",
+    "wallapopUrl": "https://es.wallapop.com/item/banco-recibidor-artesanal-madera-1294704184"
+  },
+  {
+    "id": "p-mueble-recibidor",
+    "sku": "SC-HOG-036",
+    "slug": "mueble-recibidor-artesano-madera",
+    "name": "Mueble recibidor artesano madera",
+    "price": 1300.0,
+    "category": "hogar",
+    "short": "Mueble recibidor organizador tipo taquilla (mudroom) hecho a mano en España, pensado para entradas, recibidores o pasillos grandes que necesiten máxima capacida",
+    "description": "Mueble recibidor organizador tipo taquilla (mudroom) hecho a mano en España, pensado para entradas, recibidores o pasillos grandes que necesiten máxima capacidad de almacenaje y un toque de diseño premium.\n\nCaracterísticas principales:\n\nEstructura modular/múltiple: Módulo completo dividido en secciones individuales tipo taquilla para que cada miembro de la familia tenga su propio espacio.\n\nGran capacidad de colgado: Equipado con múltiples colgadores metálicos robustos a dos alturas (ideales tanto para abrigos largos como para bolsos, mochilas o ropa de niños).\n\nBanco integrado: Asiento continuo en madera de veta natural resistente. ",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 1,
+    "cost": 520,
+    "tags": [
+      "hogar",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#EDE4D4",
+    "image": "/catalog/p-mueble-recibidor/00.jpg",
+    "images": [
+      "/catalog/p-mueble-recibidor/00.jpg",
+      "/catalog/p-mueble-recibidor/01.jpg",
+      "/catalog/p-mueble-recibidor/02.jpg",
+      "/catalog/p-mueble-recibidor/03.jpg"
+    ],
+    "mesh": "console",
+    "wallapopId": "8j381l5e1yz9",
+    "wallapopSlug": "mueble-recibidor-artesano-madera-1294703282",
+    "wallapopUrl": "https://es.wallapop.com/item/mueble-recibidor-artesano-madera-1294703282"
+  },
+  {
+    "id": "p-batman",
+    "sku": "SC-INF-037",
+    "slug": "repisa-batman-madera-negra",
+    "name": "Repisa Batman Madera Negra",
+    "price": 50.0,
+    "category": "infantil",
+    "short": "Estantería decorativa con el icónico logo de Batman.",
+    "description": "Estantería decorativa con el icónico logo de Batman.\n\n- Diseño moderno y llamativo.\n- Fabricada en madera resistente.\n- Color negro intenso.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 20,
+    "tags": [
+      "infantil",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#1A1612",
+    "image": "/catalog/p-batman/00.jpg",
+    "images": [
+      "/catalog/p-batman/00.jpg"
+    ],
+    "mesh": "batman",
+    "wallapopId": "p618wlk77dz5",
+    "wallapopSlug": "repisa-batman-madera-negra-1294702355",
+    "wallapopUrl": "https://es.wallapop.com/item/repisa-batman-madera-negra-1294702355"
+  },
+  {
+    "id": "p-cuadro-geometrico",
+    "sku": "SC-DEC-038",
+    "slug": "cuadro-decorativo-minimalista-geometrico",
+    "name": "Cuadro Decorativo Minimalista Geométrico",
+    "price": 200.0,
+    "category": "decoracion",
+    "short": "Pieza de arte mural en madera personalizado, envianos tu logo, dibujo o idea para hacerlo realidad!! con un diseño geométrico moderno y minimalista. ",
+    "description": "Pieza de arte mural en madera personalizado, envianos tu logo, dibujo o idea para hacerlo realidad!! con un diseño geométrico moderno y minimalista. \nRealizamos cortes a medida para tu negocio, hogar o regalo.\nAñade un toque de estilo contemporáneo a cualquier espacio.\n\n- Diseño abstracto con formas cúbicas entrelazadas.\n- Acabado en metal negro.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 80,
+    "tags": [
+      "decoracion",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#EDE4D4",
+    "image": "/catalog/p-cuadro-geometrico/00.jpg",
+    "images": [
+      "/catalog/p-cuadro-geometrico/00.jpg",
+      "/catalog/p-cuadro-geometrico/01.jpg",
+      "/catalog/p-cuadro-geometrico/02.jpg",
+      "/catalog/p-cuadro-geometrico/03.jpg",
+      "/catalog/p-cuadro-geometrico/04.jpg"
+    ],
+    "mesh": "geoart",
+    "wallapopId": "wzvgp5ygo4zl",
+    "wallapopSlug": "cuadro-decorativo-minimalista-geometrico-1294621517",
+    "wallapopUrl": "https://es.wallapop.com/item/cuadro-decorativo-minimalista-geometrico-1294621517"
+  },
+  {
+    "id": "p-ballena",
+    "sku": "SC-DEC-039",
+    "slug": "estanteria-madera-artesanal-forma-cola-ballena",
+    "name": "Estantería Madera Artesanal Forma Cola Ballena",
+    "price": 199.0,
+    "category": "decoracion",
+    "short": "Estanterías flotantes de pared con formas temáticas y orgánicas hechas a mano en España, ideales para darle un toque decorativo, único y natural a cualquier est",
+    "description": "Estanterías flotantes de pared con formas temáticas y orgánicas hechas a mano en España, ideales para darle un toque decorativo, único y natural a cualquier estancia (salón, dormitorio, baño o terraza interior).\n\nCaracterísticas principales:\n\nDiseños creativos y botánicos: Modelos inspirados en la naturaleza, como siluetas marineras (cola de ballena con varias baldas) o botánicas (hoja de Monstera calada).\n\nFuncionalidad y decoración: Perfectas para colocar pequeñas macetas, plantas suculentas, velas, figuras decorativas o frascos.\n\nCalidad y acabado: Fabricadas en madera maciza natural o lacadas en blanco mate, con acabados suaviza",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": false,
+    "stock": 2,
+    "cost": 79,
+    "tags": [
+      "decoracion",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#8A6A45",
+    "image": "/catalog/p-ballena/00.jpg",
+    "images": [
+      "/catalog/p-ballena/00.jpg",
+      "/catalog/p-ballena/01.jpg"
+    ],
+    "mesh": "whale",
+    "wallapopId": "v6gpwr41976e",
+    "wallapopSlug": "estanteria-madera-artesanal-forma-cola-ballena-1294619840",
+    "wallapopUrl": "https://es.wallapop.com/item/estanteria-madera-artesanal-forma-cola-ballena-1294619840"
+  },
+  {
+    "id": "p-mostrador",
+    "sku": "SC-COM-040",
+    "slug": "mostrador-expositor-para-negocio",
+    "name": "Mostrador expositor para negocio",
+    "price": 4500.0,
+    "category": "comercial",
+    "short": "Mostrador de madera con vitrina expositora y terminal de punto de venta.",
+    "description": "Mostrador de madera con vitrina expositora y terminal de punto de venta.\n\n- Estructura de madera con acabado en listones verticales.\n- Vitrina de cristal con tres baldas.\n- Encimera de madera.\n- Incluye pantalla táctil y datáfono.",
+    "materials": [
+      "Madera",
+      "Laca",
+      "Herrajes"
+    ],
+    "leadTimeDays": 14,
+    "madeToMeasure": true,
+    "featured": true,
+    "stock": 1,
+    "cost": 1800,
+    "tags": [
+      "comercial",
+      "wallapop",
+      "a medida"
+    ],
+    "color": "#2C3A56",
+    "image": "/catalog/p-mostrador/00.jpg",
+    "images": [
+      "/catalog/p-mostrador/00.jpg",
+      "/catalog/p-mostrador/01.jpg",
+      "/catalog/p-mostrador/02.jpg",
+      "/catalog/p-mostrador/03.jpg"
+    ],
+    "mesh": "counter",
+    "wallapopId": "ejkmo0xvmpzx",
+    "wallapopSlug": "mostrador-expositor-para-negocio-1294616023",
+    "wallapopUrl": "https://es.wallapop.com/item/mostrador-expositor-para-negocio-1294616023"
+  },
+  {
+    "id": "p-mesa-maciza",
+    "sku": "SC-HOG-099",
+    "slug": "mesa-artesanal-madera-maciza",
+    "name": "Mesa artesanal de madera maciza",
+    "price": 890,
+    "category": "hogar",
+    "short": "Mesa de comedor fabricada a mano, esencia de la madera natural.",
+    "description": "Esta mesa ha sido fabricada a mano en nuestro taller, cuidando cada detalle y respetando la esencia de la madera natural. Diseñada para aportar calidez y carácter al espacio, combina tradición, resistencia y elegancia atemporal.",
+    "materials": [
+      "Madera maciza"
+    ],
+    "leadTimeDays": 21,
+    "madeToMeasure": true,
+    "featured": true,
+    "stock": 1,
+    "cost": 340,
+    "tags": [
+      "mesa",
+      "comedor"
+    ],
+    "color": "#8A6A45",
+    "image": "/catalog/p-mesa-maciza/00.jpg",
+    "images": [
+      "/catalog/p-mesa-maciza/00.jpg"
+    ],
+    "mesh": "table",
+    "wallapopUrl": null
+  }
+]
