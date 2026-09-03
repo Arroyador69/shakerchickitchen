@@ -9,33 +9,19 @@ Showroom 3D, catálogo (piezas de [Wallapop](https://es.wallapop.com/user/shaker
 
 ## Crear el proyecto en Vercel
 
-El repo ya está preparado: Next.js 16, Node 20, región `fra1` (Frankfurt) y variables documentadas.
+El proyecto **ya está creado y conectado**:
 
-### Opción A · Importar el repo (recomendado)
+- Dashboard: [arroyador69s-projects/shakerchickitchen](https://vercel.com/arroyador69s-projects/shakerchickitchen)
+- Web: [https://shakerchickitchen.vercel.app](https://shakerchickitchen.vercel.app)
+- GitHub conectado: cada `git push` a `main` despliega producción
+- Variables: `AUTH_SECRET`, `ADMIN_EMAIL`, `ADMIN_PASSWORD`, `CLIENT_EMAIL`, `CLIENT_PASSWORD` (Production, Preview y Development)
 
-1. Abre **[Importar shakerchickitchen en Vercel](https://vercel.com/new/import?s=https://github.com/Arroyador69/shakerchickitchen)**.
-2. Framework: **Next.js** (se detecta solo).
-3. Root Directory: `.`
-4. Añade estas Environment Variables en Production, Preview y Development:
+### Si hay que crear otro (otra cuenta / duplicado)
 
-| Nombre | Ejemplo |
-| --- | --- |
-| `AUTH_SECRET` | cadena larga aleatoria (mín. 32 caracteres) |
-| `ADMIN_EMAIL` | `alberto@shakerchic.dev` |
-| `ADMIN_PASSWORD` | contraseña tuya |
-| `CLIENT_EMAIL` | `info@shakerchickitchen.com` |
-| `CLIENT_PASSWORD` | contraseña del cliente |
-
-5. Deploy.
-6. Project → **Domains** → añade `shakerchickitchen.com` y `www.shakerchickitchen.com`.
-
-### Opción B · CLI
-
-```bash
-npx vercel@latest
-npx vercel@latest env add AUTH_SECRET
-npx vercel@latest --prod
-```
+1. Abre **[Importar shakerchickitchen](https://vercel.com/new/import?s=https://github.com/Arroyador69/shakerchickitchen)**.
+2. Framework: **Next.js**. Root Directory: `.`
+3. Añade las mismas Environment Variables.
+4. Deploy → Project → **Domains** → `shakerchickitchen.com`.
 
 ## Arranque local
 
