@@ -211,27 +211,71 @@ function CatHouse() {
 }
 
 function Obelisk() {
+  const white = "#f4f1ea";
+  const posts: [number, number][] = [
+    [-0.18, -0.18],
+    [0.18, -0.18],
+    [-0.18, 0.18],
+    [0.18, 0.18],
+  ];
   return (
     <group>
-      <Box pos={[0, 0.08, 0]} size={[0.45, 0.12, 0.45]} color={cream} />
-      <Box pos={[0, 0.85, 0]} size={[0.12, 1.5, 0.12]} color={cream} />
-      <Box pos={[0, 0.55, 0]} size={[0.32, 0.04, 0.32]} color={cream} />
-      <Box pos={[0, 1.15, 0]} size={[0.28, 0.04, 0.28]} color={cream} />
-      <mesh position={[0, 1.7, 0]} rotation={[0, Math.PI / 4, 0]}>
-        <coneGeometry args={[0.1, 0.22, 4]} />
-        <Mat color={cream} />
+      {posts.map(([x, z]) => (
+        <mesh key={`${x}${z}`} position={[x, 0.85, z]} castShadow>
+          <boxGeometry args={[0.045, 1.7, 0.045]} />
+          <Mat color={white} />
+        </mesh>
+      ))}
+      {[0.25, 0.75, 1.25].map((y) => (
+        <group key={y}>
+          <Box pos={[0, y, 0.18]} size={[0.4, 0.03, 0.03]} color={white} />
+          <Box pos={[0, y, -0.18]} size={[0.4, 0.03, 0.03]} color={white} />
+          <Box pos={[0.18, y, 0]} size={[0.03, 0.03, 0.4]} color={white} />
+          <Box pos={[-0.18, y, 0]} size={[0.03, 0.03, 0.4]} color={white} />
+          <mesh position={[0, y + 0.12, 0.18]} rotation={[0, 0, 0.7]}>
+            <boxGeometry args={[0.28, 0.015, 0.015]} />
+            <Mat color={white} />
+          </mesh>
+          <mesh position={[0, y - 0.12, 0.18]} rotation={[0, 0, -0.7]}>
+            <boxGeometry args={[0.28, 0.015, 0.015]} />
+            <Mat color={white} />
+          </mesh>
+        </group>
+      ))}
+      <mesh position={[0, 1.78, 0]} castShadow>
+        <sphereGeometry args={[0.07, 16, 16]} />
+        <Mat color={white} />
       </mesh>
     </group>
   );
 }
 
 function Versailles() {
+  const park = "#3f7a45";
   return (
     <group>
-      <Box pos={[0, 0.45, 0]} size={[0.85, 0.9, 0.85]} color={cream} />
-      <Box pos={[0, 0.45, 0]} size={[0.95, 0.08, 0.95]} color={cream} />
-      <Box pos={[0, 0.92, 0]} size={[0.95, 0.08, 0.95]} color={cream} />
-      <Box pos={[0, 0.08, 0]} size={[0.95, 0.08, 0.95]} color={cream} />
+      <Box pos={[0, 0.42, 0]} size={[0.78, 0.72, 0.78]} color={park} />
+      {[-0.38, 0.38].flatMap((x) =>
+        [-0.38, 0.38].map((z) => (
+          <group key={`${x}${z}`}>
+            <Box pos={[x, 0.42, z]} size={[0.08, 0.84, 0.08]} color={park} />
+            <mesh position={[x, 0.9, z]} castShadow>
+              <sphereGeometry args={[0.055, 14, 14]} />
+              <Mat color={park} />
+            </mesh>
+          </group>
+        )),
+      )}
+      <Box pos={[0, 0.22, 0]} size={[0.84, 0.05, 0.84]} color={park} />
+      <Box pos={[0, 0.62, 0]} size={[0.84, 0.05, 0.84]} color={park} />
+      <mesh position={[0, 1.15, 0]} castShadow>
+        <cylinderGeometry args={[0.025, 0.03, 0.45, 10]} />
+        <Mat color="#6b4f32" />
+      </mesh>
+      <mesh position={[0, 1.55, 0]} castShadow>
+        <sphereGeometry args={[0.22, 18, 18]} />
+        <Mat color="#2f5c34" rough={0.8} />
+      </mesh>
     </group>
   );
 }
@@ -253,13 +297,18 @@ function DoorModel() {
 function Mudroom() {
   return (
     <group>
-      <Box pos={[0, 0.9, -0.08]} size={[1.6, 1.8, 0.08]} color={cream} />
-      <Box pos={[0, 0.28, 0.12]} size={[1.55, 0.5, 0.42]} color={cream} />
-      <Box pos={[0, 0.55, 0.12]} size={[1.55, 0.06, 0.45]} color={wood} />
-      {[-0.45, 0, 0.45].map((x) => (
-        <mesh key={x} position={[x, 1.35, 0]} rotation={[Math.PI / 2, 0, 0]}>
-          <torusGeometry args={[0.04, 0.01, 8, 16]} />
-          <Mat color={brass} metal={0.9} />
+      <Box pos={[0, 0.95, -0.12]} size={[1.7, 1.9, 0.08]} color="#f7f4ee" />
+      <Box pos={[-0.68, 0.7, 0.08]} size={[0.32, 1.4, 0.28]} color="#f7f4ee" />
+      <Box pos={[0.12, 0.22, 0.12]} size={[1.35, 0.38, 0.38]} color="#f7f4ee" />
+      {[-0.35, 0.05, 0.45].map((x) => (
+        <Box key={`c${x}`} pos={[x, 0.22, 0.12]} size={[0.28, 0.34, 0.34]} color="#eeeae2" />
+      ))}
+      <Box pos={[0.12, 0.44, 0.14]} size={[1.38, 0.06, 0.42]} color="#4a3424" />
+      <Box pos={[0, 1.88, -0.08]} size={[1.78, 0.07, 0.2]} color="#f7f4ee" />
+      {[-0.2, 0.1, 0.4].map((x) => (
+        <mesh key={x} position={[x, 1.15, 0]} rotation={[Math.PI / 2, 0, 0]}>
+          <torusGeometry args={[0.035, 0.01, 8, 14]} />
+          <Mat color="#1a1612" metal={0.6} />
         </mesh>
       ))}
     </group>
@@ -302,20 +351,30 @@ function Console() {
 }
 
 function Shark() {
+  const blue = "#7eb6d4";
   return (
     <group>
-      <mesh position={[0, 0.35, 0]} rotation={[0, 0, 0.15]} castShadow>
-        <boxGeometry args={[1.2, 0.45, 0.4]} />
-        <Mat color={navy} />
-      </mesh>
-      <mesh position={[0.55, 0.55, 0]} castShadow>
-        <coneGeometry args={[0.12, 0.35, 4]} />
-        <Mat color={navy} />
-      </mesh>
-      <mesh position={[-0.55, 0.25, 0]} rotation={[0, 0, -0.6]}>
-        <boxGeometry args={[0.35, 0.12, 0.08]} />
-        <Mat color={navy} />
-      </mesh>
+      <Box pos={[0, 0.42, 0]} size={[0.72, 0.84, 0.55]} color={blue} />
+      <Box pos={[0, 0.68, 0]} size={[0.7, 0.26, 0.54]} color={blue} />
+      <Box pos={[0, 0.28, 0.02]} size={[0.58, 0.42, 0.48]} color="#c0392b" />
+      {[-0.2, -0.08, 0.04, 0.16].map((x) => (
+        <mesh key={`t${x}`} position={[x, 0.5, 0.28]} rotation={[0, 0, 0]}>
+          <coneGeometry args={[0.045, 0.1, 3]} />
+          <Mat color="#f7f7f7" />
+        </mesh>
+      ))}
+      {[-0.2, -0.08, 0.04, 0.16].map((x) => (
+        <mesh key={`b${x}`} position={[x, 0.08, 0.28]} rotation={[Math.PI, 0, 0]}>
+          <coneGeometry args={[0.045, 0.1, 3]} />
+          <Mat color="#f7f7f7" />
+        </mesh>
+      ))}
+      {[-0.12, 0.12].map((x) => (
+        <mesh key={`e${x}`} position={[x, 0.7, 0.28]}>
+          <cylinderGeometry args={[0.03, 0.03, 0.04, 10]} />
+          <Mat color="#1a1612" />
+        </mesh>
+      ))}
     </group>
   );
 }
