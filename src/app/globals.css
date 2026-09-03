@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+:root {
+  --cream: #f6f0e6;
+  --ivory: #fbf7f1;
+  --olive: #6a7349;
+  --olive-deep: #4f5636;
+  --navy: #243049;
+  --ink: #1a1612;
+  --brass: #c4a574;
+  --brass-deep: #9a7a4a;
+  --marble: #f3eee6;
+  --paper: #f8f3ea;
+  --muted: #6f675c;
+}
+
+@theme inline {
+  --color-cream: var(--cream);
+  --color-ivory: var(--ivory);
+  --color-olive: var(--olive);
+  --color-olive-deep: var(--olive-deep);
+  --color-navy: var(--navy);
+  --color-ink: var(--ink);
+  --color-brass: var(--brass);
+  --color-brass-deep: var(--brass-deep);
+  --color-marble: var(--marble);
+  --color-paper: var(--paper);
+  --color-muted: var(--muted);
+  --font-sans: var(--font-outfit);
+  --font-serif: var(--font-cormorant);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--ivory);
+  color: var(--ink);
+  font-family: var(--font-outfit), system-ui, sans-serif;
+}
+
+h1,
+h2,
+h3,
+.font-serif {
+  font-family: var(--font-cormorant), Georgia, serif;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+
+::selection {
+  background: var(--olive);
+  color: #fff;
+}
+
+.grain {
+  position: relative;
+}
+
+.grain::after {
+  content: "";
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  opacity: 0.09;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)' opacity='.55'/%3E%3C/svg%3E");
+}
+
+.gold-line {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--brass), transparent);
+}
